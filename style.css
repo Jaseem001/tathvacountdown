@@ -108,7 +108,7 @@ a:hover{
 
 @media only screen and (max-width: 1000px) {
   body {
-    background-image: url('bg4.jpg');
+    background-color: #090559;
     background-size:cover;
     background-attachment: fixed;
 
